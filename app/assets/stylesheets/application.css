@@ -17,3 +17,5 @@
  footer { margin-top: 100px; }
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
+.navbar-p { margin: 0 }
+.site-nav { background-image: url('http://www.lovethispic.com/uploaded_images/114180-Pink-Glitter-Pattern-.jpg'); }
